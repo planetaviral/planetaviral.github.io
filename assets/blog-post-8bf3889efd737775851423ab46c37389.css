@@ -1,0 +1,60 @@
+/*!
+ * Start Bootstrap - Blog Post HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+
+.content {
+    color: rgb(51, 51, 51);
+    font-size: 18px;
+}
+
+.tag {
+    color: rgb(238, 71, 35);
+}
+
+.sidebar-thumbnail-title {
+    margin-bottom: 20px;
+}
+
+p.sidebar-thumbnail-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    height: 40px;
+}
+
+@media (min-width: 992px) {
+    p.sidebar-thumbnail-title {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 1200px) {
+    p.sidebar-thumbnail-title {
+        font-size: 16px;
+    }
+}
+
+.source {
+    font-size: 14px;
+}
+
+.source a {
+    color: rgb(238, 71, 35);
+}
+
+ul.share-buttons {
+    list-style: none;
+    padding: 0;
+}
+
+ul.share-buttons li {
+    display: inline;
+    padding: 1px;
+}
+
+ul.share-buttons img {
+    width: 32px;
+}
