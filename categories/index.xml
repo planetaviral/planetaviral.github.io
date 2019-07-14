@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Planeta Viral</title>
+    <link>http://www.planetaviral.com.br/categories/</link>
+    <description>Recent content in Categories on Planeta Viral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 29 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.planetaviral.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>animais</title>
+      <link>http://www.planetaviral.com.br/categories/animais/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/categories/animais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ciência &amp; tecnologia</title>
+      <link>http://www.planetaviral.com.br/categories/ciencia-tecnologia/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/categories/ciencia-tecnologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vida</title>
+      <link>http://www.planetaviral.com.br/categories/vida/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/categories/vida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diversão</title>
+      <link>http://www.planetaviral.com.br/categories/diversao/</link>
+      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/categories/diversao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cultura</title>
+      <link>http://www.planetaviral.com.br/categories/cultura/</link>
+      <pubDate>Sun, 15 May 2016 15:23:55 -0400</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/categories/cultura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vídeos</title>
+      <link>http://www.planetaviral.com.br/categories/videos/</link>
+      <pubDate>Wed, 09 Sep 2015 19:00:00 -0400</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/categories/videos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

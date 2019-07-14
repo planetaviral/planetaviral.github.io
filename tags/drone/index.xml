@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drone on Planeta Viral</title>
+    <link>http://www.planetaviral.com.br/tags/drone/</link>
+    <description>Recent content in drone on Planeta Viral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 10 Jul 2015 05:35:46 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.planetaviral.com.br/tags/drone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Para tudo! Alguém prendeu uma câmera GoPro num drone e filmou um show de fogos de artifício por cima!</title>
+      <link>http://www.planetaviral.com.br/gopro-queima-de-fogos/</link>
+      <pubDate>Fri, 10 Jul 2015 05:35:46 -0400</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/gopro-queima-de-fogos/</guid>
+      <description>Amarrar uma câmera GoPro num drone voador é a nova onda em fotografia aérea hoje em dia, e este vídeo mostra o porquê. A GoPro te permite capturar imagens que não seriam possíveis em um helicóptero, por exemplo. Veja o vídeo fantástico que este cara conseguiu gravar fazendo seu drone voar no meio de uma queima de fogos, tudo ao som de Andrea Bocelli cantando &amp;ldquo;Con Te Partiro&amp;rdquo;. Dica: vale assistir em tela cheia&amp;hellip;.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ciencia on Planeta Viral</title>
+    <link>http://www.planetaviral.com.br/tags/ciencia/</link>
+    <description>Recent content in ciencia on Planeta Viral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 21 Aug 2015 12:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.planetaviral.com.br/tags/ciencia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Colocar uma bola de metal quente em cima de um bloco de espuma cria resultados inesperados</title>
+      <link>http://www.planetaviral.com.br/bola-de-fogo/</link>
+      <pubDate>Fri, 21 Aug 2015 12:00:00 -0400</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/bola-de-fogo/</guid>
+      <description>Já vi alguns experimentos científicos bem impressionantes antes, mas os mais surpreendentes sempre envolvem, de alguma forma, esferas incandescentes de níquel. Este metal conduz calor muito bem, é possível ser moldado em praticamente qualquer coisa, e é bem mais barato que os outros metais. Quando a pessoa realizou este experimento científico, ela usou uma bola de níquel incandescente para ajudar a alavancar seu truque. Veja o que esta fonte de calor esférica pode fazer com um grande pedaço de espuma.</description>
+    </item>
+    
+    <item>
+      <title>Esta bola faz uma coisa muito louca quando jogada de uma grande altura</title>
+      <link>http://www.planetaviral.com.br/efeito-magnus/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/efeito-magnus/</guid>
+      <description>Se você jogar uma bola de basquete de uma janela do segundo andar, o máximo que vai acontecer é ficar devendo desculpas a alguém que estiver passando lá embaixo.
+Mas se você estiver a uma boa altura e der um girada na bola antes de arremessá-la, ela irá fazer uma curva e se afastar bastante do ponto onde deveria cair.
+Este é o Efeito Magnus, em que a rotação da bola altera sua trajetória.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fogo on Planeta Viral</title>
+    <link>http://www.planetaviral.com.br/tags/fogo/</link>
+    <description>Recent content in fogo on Planeta Viral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 21 Aug 2015 12:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.planetaviral.com.br/tags/fogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Colocar uma bola de metal quente em cima de um bloco de espuma cria resultados inesperados</title>
+      <link>http://www.planetaviral.com.br/bola-de-fogo/</link>
+      <pubDate>Fri, 21 Aug 2015 12:00:00 -0400</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/bola-de-fogo/</guid>
+      <description>Já vi alguns experimentos científicos bem impressionantes antes, mas os mais surpreendentes sempre envolvem, de alguma forma, esferas incandescentes de níquel. Este metal conduz calor muito bem, é possível ser moldado em praticamente qualquer coisa, e é bem mais barato que os outros metais. Quando a pessoa realizou este experimento científico, ela usou uma bola de níquel incandescente para ajudar a alavancar seu truque. Veja o que esta fonte de calor esférica pode fazer com um grande pedaço de espuma.</description>
+    </item>
+    
+  </channel>
+</rss>

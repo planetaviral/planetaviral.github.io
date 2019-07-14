@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>esportes on Planeta Viral</title>
+    <link>http://www.planetaviral.com.br/tags/esportes/</link>
+    <description>Recent content in esportes on Planeta Viral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 23 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.planetaviral.com.br/tags/esportes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ele nasceu somente com uma perna, mas isto não o impede de correr atrás de seus sonhos</title>
+      <link>http://www.planetaviral.com.br/atleta-de-uma-perna-so/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/atleta-de-uma-perna-so/</guid>
+      <description>Devido a uma malformação congênita, este menino chamado Nico Calabria nasceu com apenas uma perna. Para alguns, isto pode ser visto como uma deficiência, para outros, um contratempo. Mas não para Nico. Ele não se deixa abalar por nada.
+Nico quer ser um atleta quando crescer, e não deixa que sua condição fique no seu caminho. Claro, suas aspirações podem parecer pouco realistas para alguns, mas estas pessoas certamente não conhecem Nico.</description>
+    </item>
+    
+    <item>
+      <title>Esta bola faz uma coisa muito louca quando jogada de uma grande altura</title>
+      <link>http://www.planetaviral.com.br/efeito-magnus/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/efeito-magnus/</guid>
+      <description>Se você jogar uma bola de basquete de uma janela do segundo andar, o máximo que vai acontecer é ficar devendo desculpas a alguém que estiver passando lá embaixo.
+Mas se você estiver a uma boa altura e der um girada na bola antes de arremessá-la, ela irá fazer uma curva e se afastar bastante do ponto onde deveria cair.
+Este é o Efeito Magnus, em que a rotação da bola altera sua trajetória.</description>
+    </item>
+    
+  </channel>
+</rss>
