@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>animais</title>
+      <title>Animais</title>
       <link>http://www.planetaviral.com.br/categories/animais/</link>
       <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
       
@@ -21,34 +21,16 @@
     </item>
     
     <item>
-      <title>ciência &amp; tecnologia</title>
-      <link>http://www.planetaviral.com.br/categories/ciencia-tecnologia/</link>
+      <title>Ciência &amp; tecnologia</title>
+      <link>http://www.planetaviral.com.br/categories/ciencia--tecnologia/</link>
       <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.planetaviral.com.br/categories/ciencia-tecnologia/</guid>
+      <guid>http://www.planetaviral.com.br/categories/ciencia--tecnologia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>vida</title>
-      <link>http://www.planetaviral.com.br/categories/vida/</link>
-      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.planetaviral.com.br/categories/vida/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diversão</title>
-      <link>http://www.planetaviral.com.br/categories/diversao/</link>
-      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.planetaviral.com.br/categories/diversao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cultura</title>
+      <title>Cultura</title>
       <link>http://www.planetaviral.com.br/categories/cultura/</link>
       <pubDate>Sun, 15 May 2016 15:23:55 -0400</pubDate>
       
@@ -57,7 +39,25 @@
     </item>
     
     <item>
-      <title>vídeos</title>
+      <title>Diversão</title>
+      <link>http://www.planetaviral.com.br/categories/diversao/</link>
+      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/categories/diversao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vida</title>
+      <link>http://www.planetaviral.com.br/categories/vida/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.planetaviral.com.br/categories/vida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vídeos</title>
       <link>http://www.planetaviral.com.br/categories/videos/</link>
       <pubDate>Wed, 09 Sep 2015 19:00:00 -0400</pubDate>
       
