@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Planeta Viral</title>
-    <link>http://www.planetaviral.com.br/category/</link>
+    <link>https://www.planetaviral.com.br/category/</link>
     <description>Recent content in Categories on Planeta Viral</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     
-	<atom:link href="http://www.planetaviral.com.br/category/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.planetaviral.com.br/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.planetaviral.com.br/animais/</link>
+      <link>https://www.planetaviral.com.br/animais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.planetaviral.com.br/animais/</guid>
+      <guid>https://www.planetaviral.com.br/animais/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.planetaviral.com.br/category/ciencia-and-tecnologia/</link>
+      <link>https://www.planetaviral.com.br/category/ciencia-and-tecnologia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.planetaviral.com.br/category/ciencia-and-tecnologia/</guid>
+      <guid>https://www.planetaviral.com.br/category/ciencia-and-tecnologia/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.planetaviral.com.br/category/cultura/</link>
+      <link>https://www.planetaviral.com.br/category/cultura/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.planetaviral.com.br/category/cultura/</guid>
+      <guid>https://www.planetaviral.com.br/category/cultura/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.planetaviral.com.br/category/diversao/</link>
+      <link>https://www.planetaviral.com.br/category/diversao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.planetaviral.com.br/category/diversao/</guid>
+      <guid>https://www.planetaviral.com.br/category/diversao/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.planetaviral.com.br/category/vida/</link>
+      <link>https://www.planetaviral.com.br/category/vida/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.planetaviral.com.br/category/vida/</guid>
+      <guid>https://www.planetaviral.com.br/category/vida/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.planetaviral.com.br/category/videos/</link>
+      <link>https://www.planetaviral.com.br/category/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.planetaviral.com.br/category/videos/</guid>
+      <guid>https://www.planetaviral.com.br/category/videos/</guid>
       <description></description>
     </item>
     
